@@ -1,0 +1,30 @@
+{
+  "name": "Olympus",
+  "group": "Olympus",
+  "bg": "#00022c",
+  "text": "#e1e0f7",
+  "accent": "#8c8fd8",
+  "vars": {
+    "cds-surface-1": "#03053a",
+    "cds-surface-2": "#050740",
+    "cds-surface-3": "#0b0d44",
+    "desktop-theme-backdrop": "#00022c",
+    "cds-text-secondary": "#d4d3f2",
+    "cds-undimmed-text-secondary": "#d4d3f2",
+    "cds-text-muted": "#7d80a8",
+    "cds-undimmed-text-muted": "#7d80a8",
+    "cds-role-accent-on": "#00022c",
+    "cds-on-accent": "#00022c",
+    "cds-on-brand": "#00022c",
+    "cds-bg-accent": "#0e1050",
+    "olympus-border": "#22245a"
+  },
+  "images": {
+    "top": "olympus-top.png",
+    "bottom": "olympus-bottom.png",
+    "hero": "olympus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

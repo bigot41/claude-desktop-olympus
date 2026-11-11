@@ -1,0 +1,30 @@
+{
+  "name": "Hera",
+  "group": "Olympus",
+  "bg": "#000a24",
+  "text": "#d6e8ff",
+  "accent": "#4f9cf0",
+  "vars": {
+    "cds-surface-1": "#031232",
+    "cds-surface-2": "#041638",
+    "cds-surface-3": "#06193e",
+    "desktop-theme-backdrop": "#000a24",
+    "cds-text-secondary": "#c5d6ed",
+    "cds-undimmed-text-secondary": "#c5d6ed",
+    "cds-text-muted": "#76849c",
+    "cds-undimmed-text-muted": "#76849c",
+    "cds-role-accent-on": "#000a24",
+    "cds-on-accent": "#000a24",
+    "cds-on-brand": "#000a24",
+    "cds-bg-accent": "#081f48",
+    "olympus-border": "#0b2857"
+  },
+  "images": {
+    "top": "hera-top.png",
+    "bottom": "hera-bottom.png",
+    "hero": "hera-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Nike",
+  "group": "Olympus",
+  "bg": "#0e0d0a",
+  "text": "#f2eedf",
+  "accent": "#e3bd4f",
+  "vars": {
+    "cds-surface-1": "#191815",
+    "cds-surface-2": "#1e1d19",
+    "cds-surface-3": "#21201c",
+    "desktop-theme-backdrop": "#0e0d0a",
+    "cds-text-secondary": "#dbd8ca",
+    "cds-undimmed-text-secondary": "#dbd8ca",
+    "cds-text-muted": "#929086",
+    "cds-undimmed-text-muted": "#929086",
+    "cds-role-accent-on": "#0e0d0a",
+    "cds-on-accent": "#0e0d0a",
+    "cds-on-brand": "#0e0d0a",
+    "cds-bg-accent": "#302915",
+    "olympus-border": "#35332e"
+  },
+  "images": {
+    "top": "nike-top.png",
+    "bottom": "nike-bottom.png",
+    "hero": "nike-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

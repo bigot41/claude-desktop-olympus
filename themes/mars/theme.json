@@ -1,0 +1,30 @@
+{
+  "name": "Ares",
+  "group": "Olympus",
+  "bg": "#120204",
+  "text": "#ffc2c4",
+  "accent": "#e0303c",
+  "vars": {
+    "cds-surface-1": "#200407",
+    "cds-surface-2": "#260408",
+    "cds-surface-3": "#2c0509",
+    "desktop-theme-backdrop": "#120204",
+    "cds-text-secondary": "#ecb3b5",
+    "cds-undimmed-text-secondary": "#ecb3b5",
+    "cds-text-muted": "#946c6e",
+    "cds-undimmed-text-muted": "#946c6e",
+    "cds-role-accent-on": "#120204",
+    "cds-on-accent": "#120204",
+    "cds-on-brand": "#120204",
+    "cds-bg-accent": "#36060a",
+    "olympus-border": "#45080d"
+  },
+  "images": {
+    "top": "mars-top.png",
+    "bottom": "mars-bottom.png",
+    "hero": "mars-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Kronos (light)",
+  "group": "Olympus",
+  "bg": "#f1efe6",
+  "text": "#171610",
+  "accent": "#86661a",
+  "vars": {
+    "cds-surface-1": "#e6e4db",
+    "cds-surface-2": "#e2e0d7",
+    "cds-surface-3": "#deddd4",
+    "desktop-theme-backdrop": "#f1efe6",
+    "cds-text-secondary": "#2d2c25",
+    "cds-undimmed-text-secondary": "#2d2c25",
+    "cds-text-muted": "#65645d",
+    "cds-undimmed-text-muted": "#65645d",
+    "cds-role-accent-on": "#f1efe6",
+    "cds-on-accent": "#f1efe6",
+    "cds-on-brand": "#f1efe6",
+    "cds-bg-accent": "#e0d9c5",
+    "olympus-border": "#cccac2"
+  },
+  "images": {
+    "top": "kronos-light-top.png",
+    "bottom": "kronos-light-bottom.png",
+    "hero": "kronos-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Proserpina",
+  "group": "Olympus",
+  "bg": "#13060d",
+  "text": "#f6dce4",
+  "accent": "#e0506c",
+  "vars": {
+    "cds-surface-1": "#1e1118",
+    "cds-surface-2": "#23151c",
+    "cds-surface-3": "#26181f",
+    "desktop-theme-backdrop": "#13060d",
+    "cds-text-secondary": "#dfc7ce",
+    "cds-undimmed-text-secondary": "#dfc7ce",
+    "cds-text-muted": "#97828a",
+    "cds-undimmed-text-muted": "#97828a",
+    "cds-role-accent-on": "#13060d",
+    "cds-on-accent": "#13060d",
+    "cds-on-brand": "#13060d",
+    "cds-bg-accent": "#34121c",
+    "olympus-border": "#3a2a32"
+  },
+  "images": {
+    "top": "proserpina-top.png",
+    "bottom": "proserpina-bottom.png",
+    "hero": "proserpina-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

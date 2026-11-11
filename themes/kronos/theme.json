@@ -1,0 +1,30 @@
+{
+  "name": "Kronos",
+  "group": "Olympus",
+  "bg": "#0b0f0d",
+  "text": "#e7e3d2",
+  "accent": "#c9a253",
+  "vars": {
+    "cds-surface-1": "#161a17",
+    "cds-surface-2": "#1a1e1b",
+    "cds-surface-3": "#1e211e",
+    "desktop-theme-backdrop": "#0b0f0d",
+    "cds-text-secondary": "#d1cebe",
+    "cds-undimmed-text-secondary": "#d1cebe",
+    "cds-text-muted": "#8b8a7f",
+    "cds-undimmed-text-muted": "#8b8a7f",
+    "cds-role-accent-on": "#0b0f0d",
+    "cds-on-accent": "#0b0f0d",
+    "cds-on-brand": "#0b0f0d",
+    "cds-bg-accent": "#292718",
+    "olympus-border": "#30332e"
+  },
+  "images": {
+    "top": "kronos-top.png",
+    "bottom": "kronos-bottom.png",
+    "hero": "kronos-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

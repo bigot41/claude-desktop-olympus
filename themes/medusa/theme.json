@@ -1,0 +1,30 @@
+{
+  "name": "Medusa",
+  "group": "Olympus",
+  "bg": "#030803",
+  "text": "#d8ffc8",
+  "accent": "#6fe07a",
+  "vars": {
+    "cds-surface-1": "#09180a",
+    "cds-surface-2": "#0b1e0d",
+    "cds-surface-3": "#0e2410",
+    "desktop-theme-backdrop": "#030803",
+    "cds-text-secondary": "#c7ebb8",
+    "cds-undimmed-text-secondary": "#c7ebb8",
+    "cds-text-muted": "#78906f",
+    "cds-undimmed-text-muted": "#78906f",
+    "cds-role-accent-on": "#030803",
+    "cds-on-accent": "#030803",
+    "cds-on-brand": "#030803",
+    "cds-bg-accent": "#122f16",
+    "olympus-border": "#183e1d"
+  },
+  "images": {
+    "top": "medusa-top.png",
+    "bottom": "medusa-bottom.png",
+    "hero": "medusa-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

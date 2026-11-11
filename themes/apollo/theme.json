@@ -1,0 +1,30 @@
+{
+  "name": "Apollo",
+  "group": "Olympus",
+  "bg": "#e9f1fa",
+  "text": "#0d1b30",
+  "accent": "#a87808",
+  "vars": {
+    "cds-surface-1": "#dde7f3",
+    "cds-surface-2": "#d8e3f0",
+    "cds-surface-3": "#d3dfed",
+    "desktop-theme-backdrop": "#e9f1fa",
+    "cds-text-secondary": "#1f2c40",
+    "cds-undimmed-text-secondary": "#1f2c40",
+    "cds-text-muted": "#707b8b",
+    "cds-undimmed-text-muted": "#707b8b",
+    "cds-role-accent-on": "#e9f1fa",
+    "cds-on-accent": "#e9f1fa",
+    "cds-on-brand": "#e9f1fa",
+    "cds-bg-accent": "#cad8e8",
+    "olympus-border": "#becee1"
+  },
+  "images": {
+    "top": "apollo-top.png",
+    "bottom": "apollo-bottom.png",
+    "hero": "apollo-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

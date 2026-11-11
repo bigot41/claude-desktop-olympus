@@ -1,0 +1,30 @@
+{
+  "name": "Hephaestus",
+  "group": "Olympus",
+  "bg": "#101012",
+  "text": "#f0ebe4",
+  "accent": "#ff7a1a",
+  "vars": {
+    "cds-surface-1": "#181819",
+    "cds-surface-2": "#1b1a1c",
+    "cds-surface-3": "#1e1e1f",
+    "desktop-theme-backdrop": "#101012",
+    "cds-text-secondary": "#ded9d3",
+    "cds-undimmed-text-secondary": "#ded9d3",
+    "cds-text-muted": "#8b8886",
+    "cds-undimmed-text-muted": "#8b8886",
+    "cds-role-accent-on": "#101012",
+    "cds-on-accent": "#101012",
+    "cds-on-brand": "#101012",
+    "cds-bg-accent": "#242324",
+    "olympus-border": "#2b2a2a"
+  },
+  "images": {
+    "top": "hephaestus-top.png",
+    "bottom": "hephaestus-bottom.png",
+    "hero": "hephaestus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

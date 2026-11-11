@@ -1,0 +1,30 @@
+{
+  "name": "Artemis",
+  "group": "Olympus",
+  "bg": "#e6ebe6",
+  "text": "#121a14",
+  "accent": "#3f6b4c",
+  "vars": {
+    "cds-surface-1": "#dae0da",
+    "cds-surface-2": "#d5dcd5",
+    "cds-surface-3": "#d0d8d1",
+    "desktop-theme-backdrop": "#e6ebe6",
+    "cds-text-secondary": "#232b25",
+    "cds-undimmed-text-secondary": "#232b25",
+    "cds-text-muted": "#717872",
+    "cds-undimmed-text-muted": "#717872",
+    "cds-role-accent-on": "#e6ebe6",
+    "cds-on-accent": "#e6ebe6",
+    "cds-on-brand": "#e6ebe6",
+    "cds-bg-accent": "#c8d0c8",
+    "olympus-border": "#bcc6bc"
+  },
+  "images": {
+    "top": "artemis-top.png",
+    "bottom": "artemis-bottom.png",
+    "hero": "artemis-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

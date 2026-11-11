@@ -1,0 +1,30 @@
+{
+  "name": "Dioscuri",
+  "group": "Olympus",
+  "bg": "#070b16",
+  "text": "#e1e8f6",
+  "accent": "#e8c35a",
+  "vars": {
+    "cds-surface-1": "#121621",
+    "cds-surface-2": "#161a26",
+    "cds-surface-3": "#1a1e29",
+    "desktop-theme-backdrop": "#070b16",
+    "cds-text-secondary": "#cbd2e0",
+    "cds-undimmed-text-secondary": "#cbd2e0",
+    "cds-text-muted": "#858b98",
+    "cds-undimmed-text-muted": "#858b98",
+    "cds-role-accent-on": "#070b16",
+    "cds-on-accent": "#070b16",
+    "cds-on-brand": "#070b16",
+    "cds-bg-accent": "#2b2821",
+    "olympus-border": "#2c313c"
+  },
+  "images": {
+    "top": "dioscuri-top.png",
+    "bottom": "dioscuri-bottom.png",
+    "hero": "dioscuri-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

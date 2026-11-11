@@ -1,0 +1,30 @@
+{
+  "name": "Nike (light)",
+  "group": "Olympus",
+  "bg": "#f6f4ee",
+  "text": "#16140f",
+  "accent": "#806210",
+  "vars": {
+    "cds-surface-1": "#ebe9e3",
+    "cds-surface-2": "#e6e4de",
+    "cds-surface-3": "#e3e1db",
+    "desktop-theme-backdrop": "#f6f4ee",
+    "cds-text-secondary": "#2c2a25",
+    "cds-undimmed-text-secondary": "#2c2a25",
+    "cds-text-muted": "#67655f",
+    "cds-undimmed-text-muted": "#67655f",
+    "cds-role-accent-on": "#f6f4ee",
+    "cds-on-accent": "#f6f4ee",
+    "cds-on-brand": "#f6f4ee",
+    "cds-bg-accent": "#e3ddca",
+    "olympus-border": "#d0cec8"
+  },
+  "images": {
+    "top": "nike-light-top.png",
+    "bottom": "nike-light-bottom.png",
+    "hero": "nike-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

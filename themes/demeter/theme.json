@@ -1,0 +1,30 @@
+{
+  "name": "Demeter",
+  "group": "Olympus",
+  "bg": "#f4ecd4",
+  "text": "#2b2006",
+  "accent": "#8a6a10",
+  "vars": {
+    "cds-surface-1": "#ece2c5",
+    "cds-surface-2": "#e9debf",
+    "cds-surface-3": "#e6dab9",
+    "desktop-theme-backdrop": "#f4ecd4",
+    "cds-text-secondary": "#3b3016",
+    "cds-undimmed-text-secondary": "#3b3016",
+    "cds-text-muted": "#857c63",
+    "cds-undimmed-text-muted": "#857c63",
+    "cds-role-accent-on": "#f4ecd4",
+    "cds-on-accent": "#f4ecd4",
+    "cds-on-brand": "#f4ecd4",
+    "cds-bg-accent": "#e0d4ae",
+    "olympus-border": "#d8ca9f"
+  },
+  "images": {
+    "top": "demeter-top.png",
+    "bottom": "demeter-bottom.png",
+    "hero": "demeter-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

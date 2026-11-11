@@ -1,0 +1,30 @@
+{
+  "name": "Nyx",
+  "group": "Olympus",
+  "bg": "#000000",
+  "text": "#f2f2f2",
+  "accent": "#9a9a9a",
+  "vars": {
+    "cds-surface-1": "#0b0b0b",
+    "cds-surface-2": "#0f0f0f",
+    "cds-surface-3": "#141414",
+    "desktop-theme-backdrop": "#000000",
+    "cds-text-secondary": "#dfdfdf",
+    "cds-undimmed-text-secondary": "#dfdfdf",
+    "cds-text-muted": "#858585",
+    "cds-undimmed-text-muted": "#858585",
+    "cds-role-accent-on": "#000000",
+    "cds-on-accent": "#000000",
+    "cds-on-brand": "#000000",
+    "cds-bg-accent": "#1c1c1c",
+    "olympus-border": "#262626"
+  },
+  "images": {
+    "top": "nyx-top.png",
+    "bottom": "nyx-bottom.png",
+    "hero": "nyx-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

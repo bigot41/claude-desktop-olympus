@@ -1,0 +1,30 @@
+{
+  "name": "Dionysus",
+  "group": "Olympus",
+  "bg": "#1a0420",
+  "text": "#f6d2ff",
+  "accent": "#c25bd6",
+  "vars": {
+    "cds-surface-1": "#25082d",
+    "cds-surface-2": "#2a0a32",
+    "cds-surface-3": "#2e0b37",
+    "desktop-theme-backdrop": "#1a0420",
+    "cds-text-secondary": "#e4c2ed",
+    "cds-undimmed-text-secondary": "#e4c2ed",
+    "cds-text-muted": "#93759b",
+    "cds-undimmed-text-muted": "#93759b",
+    "cds-role-accent-on": "#1a0420",
+    "cds-on-accent": "#1a0420",
+    "cds-on-brand": "#1a0420",
+    "cds-bg-accent": "#360e40",
+    "olympus-border": "#41124c"
+  },
+  "images": {
+    "top": "dionysus-top.png",
+    "bottom": "dionysus-bottom.png",
+    "hero": "dionysus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

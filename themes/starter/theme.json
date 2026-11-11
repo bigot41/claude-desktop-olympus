@@ -1,0 +1,16 @@
+{
+  "name": "Starter",
+  "bg": "#0e1020",
+  "text": "#e8e8f2",
+  "accent": "#8b7cff",
+  "image": "wallpaper.svg",
+  "vars": {
+    "wall-sky": "var(--wall-image) center / cover no-repeat, #0e1020",
+    "wall-halo": "#0e1020",
+    "wall-glass": "rgba(14, 16, 32, .6)",
+    "wall-rim": "rgba(139, 124, 255, .3)",
+    "wall-greet": "\"your theme is live\"",
+    "cds-radius": "10px",
+    "cds-radius-composer": "18px"
+  }
+}

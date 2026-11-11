@@ -1,0 +1,30 @@
+{
+  "name": "Laocoon",
+  "group": "Olympus",
+  "bg": "#0b0f0a",
+  "text": "#e6efe0",
+  "accent": "#9fd36b",
+  "vars": {
+    "cds-surface-1": "#161a15",
+    "cds-surface-2": "#1a1f19",
+    "cds-surface-3": "#1e221c",
+    "desktop-theme-backdrop": "#0b0f0a",
+    "cds-text-secondary": "#d0d9cb",
+    "cds-undimmed-text-secondary": "#d0d9cb",
+    "cds-text-muted": "#8a9186",
+    "cds-undimmed-text-muted": "#8a9186",
+    "cds-role-accent-on": "#0b0f0a",
+    "cds-on-accent": "#0b0f0a",
+    "cds-on-brand": "#0b0f0a",
+    "cds-bg-accent": "#232e1a",
+    "olympus-border": "#30352e"
+  },
+  "images": {
+    "top": "laocoon-top.png",
+    "bottom": "laocoon-bottom.png",
+    "hero": "laocoon-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

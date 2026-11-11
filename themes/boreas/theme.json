@@ -1,0 +1,30 @@
+{
+  "name": "Boreas",
+  "group": "Olympus",
+  "bg": "#0a0e12",
+  "text": "#e4ecf2",
+  "accent": "#9cc8ea",
+  "vars": {
+    "cds-surface-1": "#15191d",
+    "cds-surface-2": "#191e22",
+    "cds-surface-3": "#1d2125",
+    "desktop-theme-backdrop": "#0a0e12",
+    "cds-text-secondary": "#ced6dc",
+    "cds-undimmed-text-secondary": "#ced6dc",
+    "cds-text-muted": "#888f94",
+    "cds-undimmed-text-muted": "#888f94",
+    "cds-role-accent-on": "#0a0e12",
+    "cds-on-accent": "#0a0e12",
+    "cds-on-brand": "#0a0e12",
+    "cds-bg-accent": "#212c35",
+    "olympus-border": "#2f3438"
+  },
+  "images": {
+    "top": "boreas-top.png",
+    "bottom": "boreas-bottom.png",
+    "hero": "boreas-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Dioscuri (light)",
+  "group": "Olympus",
+  "bg": "#eef1f7",
+  "text": "#10162a",
+  "accent": "#8a6a14",
+  "vars": {
+    "cds-surface-1": "#e3e6ed",
+    "cds-surface-2": "#dee2e9",
+    "cds-surface-3": "#dbdee6",
+    "desktop-theme-backdrop": "#eef1f7",
+    "cds-text-secondary": "#262c3e",
+    "cds-undimmed-text-secondary": "#262c3e",
+    "cds-text-muted": "#606574",
+    "cds-undimmed-text-muted": "#606574",
+    "cds-role-accent-on": "#eef1f7",
+    "cds-on-accent": "#eef1f7",
+    "cds-on-brand": "#eef1f7",
+    "cds-bg-accent": "#dedbd3",
+    "olympus-border": "#c8ccd4"
+  },
+  "images": {
+    "top": "dioscuri-light-top.png",
+    "bottom": "dioscuri-light-bottom.png",
+    "hero": "dioscuri-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

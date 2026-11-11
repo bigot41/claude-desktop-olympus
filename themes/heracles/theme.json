@@ -1,0 +1,30 @@
+{
+  "name": "Heracles",
+  "group": "Olympus",
+  "bg": "#120d08",
+  "text": "#f1e6d6",
+  "accent": "#e0904a",
+  "vars": {
+    "cds-surface-1": "#1d1812",
+    "cds-surface-2": "#221c16",
+    "cds-surface-3": "#251f1a",
+    "desktop-theme-backdrop": "#120d08",
+    "cds-text-secondary": "#dbd0c1",
+    "cds-undimmed-text-secondary": "#dbd0c1",
+    "cds-text-muted": "#938b7f",
+    "cds-undimmed-text-muted": "#938b7f",
+    "cds-role-accent-on": "#120d08",
+    "cds-on-accent": "#120d08",
+    "cds-on-brand": "#120d08",
+    "cds-bg-accent": "#332213",
+    "olympus-border": "#38322b"
+  },
+  "images": {
+    "top": "heracles-top.png",
+    "bottom": "heracles-bottom.png",
+    "hero": "heracles-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

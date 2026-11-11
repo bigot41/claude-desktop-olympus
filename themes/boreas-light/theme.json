@@ -1,0 +1,30 @@
+{
+  "name": "Boreas (light)",
+  "group": "Olympus",
+  "bg": "#eff3f6",
+  "text": "#10171d",
+  "accent": "#2d6a99",
+  "vars": {
+    "cds-surface-1": "#e4e8eb",
+    "cds-surface-2": "#dfe4e7",
+    "cds-surface-3": "#dce0e4",
+    "desktop-theme-backdrop": "#eff3f6",
+    "cds-text-secondary": "#262d33",
+    "cds-undimmed-text-secondary": "#262d33",
+    "cds-text-muted": "#60666b",
+    "cds-undimmed-text-muted": "#60666b",
+    "cds-role-accent-on": "#eff3f6",
+    "cds-on-accent": "#eff3f6",
+    "cds-on-brand": "#eff3f6",
+    "cds-bg-accent": "#d0dde7",
+    "olympus-border": "#c9ced1"
+  },
+  "images": {
+    "top": "boreas-light-top.png",
+    "bottom": "boreas-light-bottom.png",
+    "hero": "boreas-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

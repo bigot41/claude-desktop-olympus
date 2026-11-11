@@ -1,0 +1,30 @@
+{
+  "name": "Prometheus",
+  "group": "Olympus",
+  "bg": "#0a0d11",
+  "text": "#e8edf2",
+  "accent": "#f2b544",
+  "vars": {
+    "cds-surface-1": "#15181c",
+    "cds-surface-2": "#1a1d21",
+    "cds-surface-3": "#1d2024",
+    "desktop-theme-backdrop": "#0a0d11",
+    "cds-text-secondary": "#d2d7dc",
+    "cds-undimmed-text-secondary": "#d2d7dc",
+    "cds-text-muted": "#8b8f94",
+    "cds-undimmed-text-muted": "#8b8f94",
+    "cds-role-accent-on": "#0a0d11",
+    "cds-on-accent": "#0a0d11",
+    "cds-on-brand": "#0a0d11",
+    "cds-bg-accent": "#2f2819",
+    "olympus-border": "#303337"
+  },
+  "images": {
+    "top": "prometheus-top.png",
+    "bottom": "prometheus-bottom.png",
+    "hero": "prometheus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

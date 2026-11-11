@@ -1,0 +1,30 @@
+{
+  "name": "Mnemosyne (light)",
+  "group": "Olympus",
+  "bg": "#f2ede1",
+  "text": "#1b1712",
+  "accent": "#2e4a7a",
+  "vars": {
+    "cds-surface-1": "#e7e2d7",
+    "cds-surface-2": "#e3ded3",
+    "cds-surface-3": "#e0dbcf",
+    "desktop-theme-backdrop": "#f2ede1",
+    "cds-text-secondary": "#302c27",
+    "cds-undimmed-text-secondary": "#302c27",
+    "cds-text-muted": "#68645d",
+    "cds-undimmed-text-muted": "#68645d",
+    "cds-role-accent-on": "#f2ede1",
+    "cds-on-accent": "#f2ede1",
+    "cds-on-brand": "#f2ede1",
+    "cds-bg-accent": "#d3d3d1",
+    "olympus-border": "#cdc9be"
+  },
+  "images": {
+    "top": "mnemosyne-light-top.png",
+    "bottom": "mnemosyne-light-bottom.png",
+    "hero": "mnemosyne-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Heracles (light)",
+  "group": "Olympus",
+  "bg": "#f4eee6",
+  "text": "#1d140c",
+  "accent": "#9a5420",
+  "vars": {
+    "cds-surface-1": "#e9e3db",
+    "cds-surface-2": "#e5dfd7",
+    "cds-surface-3": "#e2dbd3",
+    "desktop-theme-backdrop": "#f4eee6",
+    "cds-text-secondary": "#322a22",
+    "cds-undimmed-text-secondary": "#322a22",
+    "cds-text-muted": "#6a625a",
+    "cds-undimmed-text-muted": "#6a625a",
+    "cds-role-accent-on": "#f4eee6",
+    "cds-on-accent": "#f4eee6",
+    "cds-on-brand": "#f4eee6",
+    "cds-bg-accent": "#e6d5c6",
+    "olympus-border": "#cfc9c1"
+  },
+  "images": {
+    "top": "heracles-light-top.png",
+    "bottom": "heracles-light-bottom.png",
+    "hero": "heracles-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

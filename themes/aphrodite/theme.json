@@ -1,0 +1,30 @@
+{
+  "name": "Aphrodite",
+  "group": "Olympus",
+  "bg": "#1a0510",
+  "text": "#ffd6e4",
+  "accent": "#e07aa0",
+  "vars": {
+    "cds-surface-1": "#280c19",
+    "cds-surface-2": "#2e0e1d",
+    "cds-surface-3": "#341121",
+    "desktop-theme-backdrop": "#1a0510",
+    "cds-text-secondary": "#edc5d3",
+    "cds-undimmed-text-secondary": "#edc5d3",
+    "cds-text-muted": "#987885",
+    "cds-undimmed-text-muted": "#987885",
+    "cds-role-accent-on": "#1a0510",
+    "cds-on-accent": "#1a0510",
+    "cds-on-brand": "#1a0510",
+    "cds-bg-accent": "#3e1528",
+    "olympus-border": "#4c1c31"
+  },
+  "images": {
+    "top": "aphrodite-top.png",
+    "bottom": "aphrodite-bottom.png",
+    "hero": "aphrodite-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Poseidon",
+  "group": "Olympus",
+  "bg": "#001a1c",
+  "text": "#cff5ec",
+  "accent": "#5cc8bb",
+  "vars": {
+    "cds-surface-1": "#052627",
+    "cds-surface-2": "#072a2b",
+    "cds-surface-3": "#082f2f",
+    "desktop-theme-backdrop": "#001a1c",
+    "cds-text-secondary": "#bee3db",
+    "cds-undimmed-text-secondary": "#bee3db",
+    "cds-text-muted": "#72928e",
+    "cds-undimmed-text-muted": "#72928e",
+    "cds-role-accent-on": "#001a1c",
+    "cds-on-accent": "#001a1c",
+    "cds-on-brand": "#001a1c",
+    "cds-bg-accent": "#0c3736",
+    "olympus-border": "#104341"
+  },
+  "images": {
+    "top": "poseidon-top.png",
+    "bottom": "poseidon-bottom.png",
+    "hero": "poseidon-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

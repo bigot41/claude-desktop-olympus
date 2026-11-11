@@ -1,0 +1,33 @@
+/* T3 Olympus layout in Claude Desktop (measured on v4.16336, sidebar 288px): the god's statue gets its own band at the
+   top with the menu pushed below it, the collage gets its own band at the foot with the chat list ending above it,
+   so no art sits under text. The big hero stands above the start card. */
+.dframe-sidebar { position: relative; isolation: isolate; border-right: 1px dotted var(--olympus-border) !important; }
+.dframe-sidebar::before, .dframe-sidebar::after {
+  content: ''; position: absolute; left: 0; right: 0; z-index: -1; pointer-events: none;
+  background-repeat: no-repeat; background-size: 100% auto; image-rendering: pixelated; opacity: .85;
+}
+/* statue: behind the window buttons and the band below them */
+.dframe-sidebar::before {
+  top: 0; height: 168px; background-image: var(--img-top); background-position: center 6px;
+  -webkit-mask-image: linear-gradient(to bottom, #000 62%, transparent); mask-image: linear-gradient(to bottom, #000 62%, transparent);
+}
+.dframe-sidebar-body { padding-top: 124px !important; }
+/* collage: above the account row at the foot; the list stops where it starts */
+.dframe-sidebar::after {
+  bottom: 50px; height: 140px; background-position: center bottom;  background-image: var(--img-bottom);
+  -webkit-mask-image: linear-gradient(to top, #000 70%, transparent); mask-image: linear-gradient(to top, #000 70%, transparent);
+  border-bottom: 1px dotted var(--olympus-border);
+}
+.df-nav-scroll-box { margin-bottom: 132px; }
+.df-nav-scroll-box::after {
+  content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 28px; pointer-events: none;
+  background: linear-gradient(transparent, var(--desktop-theme-backdrop));
+}
+
+[data-testid=epitaxy-start-card] { position: relative; }
+[data-testid=epitaxy-start-card]::before {
+  content: ''; position: absolute; left: 50%; bottom: 100%; width: min(560px, 100%); height: min(280px, 30vh);
+  transform: translateX(-50%); pointer-events: none; image-rendering: pixelated;
+  background: var(--img-hero) center bottom / contain no-repeat;
+}
+[data-cds=ChatComposer] > .bg-surface-3 { border: 1px dashed var(--olympus-border) !important; }

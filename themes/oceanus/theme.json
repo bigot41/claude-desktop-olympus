@@ -1,0 +1,30 @@
+{
+  "name": "Oceanus",
+  "group": "Olympus",
+  "bg": "#03141a",
+  "text": "#d8f0f2",
+  "accent": "#4fc3c9",
+  "vars": {
+    "cds-surface-1": "#0e1f25",
+    "cds-surface-2": "#122329",
+    "cds-surface-3": "#15272c",
+    "desktop-theme-backdrop": "#03141a",
+    "cds-text-secondary": "#c3dadc",
+    "cds-undimmed-text-secondary": "#c3dadc",
+    "cds-text-muted": "#7f9497",
+    "cds-undimmed-text-muted": "#7f9497",
+    "cds-role-accent-on": "#03141a",
+    "cds-on-accent": "#03141a",
+    "cds-on-brand": "#03141a",
+    "cds-bg-accent": "#0f3036",
+    "olympus-border": "#27393f"
+  },
+  "images": {
+    "top": "oceanus-top.png",
+    "bottom": "oceanus-bottom.png",
+    "hero": "oceanus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

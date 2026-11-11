@@ -1,0 +1,30 @@
+{
+  "name": "Psyche (light)",
+  "group": "Olympus",
+  "bg": "#f5f1f7",
+  "text": "#191220",
+  "accent": "#7b4a9a",
+  "vars": {
+    "cds-surface-1": "#eae6ec",
+    "cds-surface-2": "#e6e1e8",
+    "cds-surface-3": "#e2dee5",
+    "desktop-theme-backdrop": "#f5f1f7",
+    "cds-text-secondary": "#2f2836",
+    "cds-undimmed-text-secondary": "#2f2836",
+    "cds-text-muted": "#68626d",
+    "cds-undimmed-text-muted": "#68626d",
+    "cds-role-accent-on": "#f5f1f7",
+    "cds-on-accent": "#f5f1f7",
+    "cds-on-brand": "#f5f1f7",
+    "cds-bg-accent": "#e1d6e8",
+    "olympus-border": "#d0cbd2"
+  },
+  "images": {
+    "top": "psyche-light-top.png",
+    "bottom": "psyche-light-bottom.png",
+    "hero": "psyche-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Oceanus (light)",
+  "group": "Olympus",
+  "bg": "#eef5f6",
+  "text": "#0c1d22",
+  "accent": "#1f6f78",
+  "vars": {
+    "cds-surface-1": "#e3eaeb",
+    "cds-surface-2": "#dee6e7",
+    "cds-surface-3": "#dbe3e4",
+    "desktop-theme-backdrop": "#eef5f6",
+    "cds-text-secondary": "#233337",
+    "cds-undimmed-text-secondary": "#233337",
+    "cds-text-muted": "#5d6b6e",
+    "cds-undimmed-text-muted": "#5d6b6e",
+    "cds-role-accent-on": "#eef5f6",
+    "cds-on-accent": "#eef5f6",
+    "cds-on-brand": "#eef5f6",
+    "cds-bg-accent": "#cde0e2",
+    "olympus-border": "#c8d0d2"
+  },
+  "images": {
+    "top": "oceanus-light-top.png",
+    "bottom": "oceanus-light-bottom.png",
+    "hero": "oceanus-light-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

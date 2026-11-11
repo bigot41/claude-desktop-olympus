@@ -1,0 +1,30 @@
+{
+  "name": "Athena",
+  "group": "Olympus",
+  "bg": "#0b0f04",
+  "text": "#e4ecc8",
+  "accent": "#a3b560",
+  "vars": {
+    "cds-surface-1": "#151a09",
+    "cds-surface-2": "#191f0c",
+    "cds-surface-3": "#1d230e",
+    "desktop-theme-backdrop": "#0b0f04",
+    "cds-text-secondary": "#d3dab8",
+    "cds-undimmed-text-secondary": "#d3dab8",
+    "cds-text-muted": "#828970",
+    "cds-undimmed-text-muted": "#828970",
+    "cds-role-accent-on": "#0b0f04",
+    "cds-on-accent": "#0b0f04",
+    "cds-on-brand": "#0b0f04",
+    "cds-bg-accent": "#242b12",
+    "olympus-border": "#2e3617"
+  },
+  "images": {
+    "top": "athena-top.png",
+    "bottom": "athena-bottom.png",
+    "hero": "athena-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

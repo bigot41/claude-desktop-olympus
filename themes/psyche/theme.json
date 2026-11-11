@@ -1,0 +1,30 @@
+{
+  "name": "Psyche",
+  "group": "Olympus",
+  "bg": "#0e0a14",
+  "text": "#efe7f5",
+  "accent": "#c99be0",
+  "vars": {
+    "cds-surface-1": "#19151f",
+    "cds-surface-2": "#1e1924",
+    "cds-surface-3": "#211d27",
+    "desktop-theme-backdrop": "#0e0a14",
+    "cds-text-secondary": "#d8d1de",
+    "cds-undimmed-text-secondary": "#d8d1de",
+    "cds-text-muted": "#908a96",
+    "cds-undimmed-text-muted": "#908a96",
+    "cds-role-accent-on": "#0e0a14",
+    "cds-on-accent": "#0e0a14",
+    "cds-on-brand": "#0e0a14",
+    "cds-bg-accent": "#2c2135",
+    "olympus-border": "#34303a"
+  },
+  "images": {
+    "top": "psyche-top.png",
+    "bottom": "psyche-bottom.png",
+    "hero": "psyche-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Caduceus",
+  "group": "Olympus",
+  "bg": "#efe9dc",
+  "text": "#14110c",
+  "accent": "#6b5a3a",
+  "vars": {
+    "cds-surface-1": "#e5ded1",
+    "cds-surface-2": "#e1dacc",
+    "cds-surface-3": "#ddd6c7",
+    "desktop-theme-backdrop": "#efe9dc",
+    "cds-text-secondary": "#26221d",
+    "cds-undimmed-text-secondary": "#26221d",
+    "cds-text-muted": "#77726a",
+    "cds-undimmed-text-muted": "#77726a",
+    "cds-role-accent-on": "#efe9dc",
+    "cds-on-accent": "#efe9dc",
+    "cds-on-brand": "#efe9dc",
+    "cds-bg-accent": "#d6cec0",
+    "olympus-border": "#ccc4b4"
+  },
+  "images": {
+    "top": "caduceus-top.png",
+    "bottom": "caduceus-bottom.png",
+    "hero": "caduceus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

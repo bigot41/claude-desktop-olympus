@@ -1,0 +1,30 @@
+{
+  "name": "Helios",
+  "group": "Olympus",
+  "bg": "#140c00",
+  "text": "#ffe2a0",
+  "accent": "#e0a83a",
+  "vars": {
+    "cds-surface-1": "#241703",
+    "cds-surface-2": "#2a1b04",
+    "cds-surface-3": "#302005",
+    "desktop-theme-backdrop": "#140c00",
+    "cds-text-secondary": "#ecd193",
+    "cds-undimmed-text-secondary": "#ecd193",
+    "cds-text-muted": "#958258",
+    "cds-undimmed-text-muted": "#958258",
+    "cds-role-accent-on": "#140c00",
+    "cds-on-accent": "#140c00",
+    "cds-on-brand": "#140c00",
+    "cds-bg-accent": "#3b2808",
+    "olympus-border": "#4b320a"
+  },
+  "images": {
+    "top": "helios-top.png",
+    "bottom": "helios-bottom.png",
+    "hero": "helios-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

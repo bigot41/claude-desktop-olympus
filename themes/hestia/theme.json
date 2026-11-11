@@ -1,0 +1,30 @@
+{
+  "name": "Hestia",
+  "group": "Olympus",
+  "bg": "#f3e4d9",
+  "text": "#2a140a",
+  "accent": "#9a4a2c",
+  "vars": {
+    "cds-surface-1": "#ecd8cc",
+    "cds-surface-2": "#ead4c7",
+    "cds-surface-3": "#e7cfc2",
+    "desktop-theme-backdrop": "#f3e4d9",
+    "cds-text-secondary": "#3a251b",
+    "cds-undimmed-text-secondary": "#3a251b",
+    "cds-text-muted": "#847267",
+    "cds-undimmed-text-muted": "#847267",
+    "cds-role-accent-on": "#f3e4d9",
+    "cds-on-accent": "#f3e4d9",
+    "cds-on-brand": "#f3e4d9",
+    "cds-bg-accent": "#e2c7b9",
+    "olympus-border": "#dcbbad"
+  },
+  "images": {
+    "top": "hestia-top.png",
+    "bottom": "hestia-bottom.png",
+    "hero": "hestia-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

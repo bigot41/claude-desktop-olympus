@@ -1,0 +1,30 @@
+{
+  "name": "Selene",
+  "group": "Olympus",
+  "bg": "#0a0e16",
+  "text": "#dfe6f2",
+  "accent": "#9fb0cf",
+  "vars": {
+    "cds-surface-1": "#141923",
+    "cds-surface-2": "#171d28",
+    "cds-surface-3": "#1b212d",
+    "desktop-theme-backdrop": "#0a0e16",
+    "cds-text-secondary": "#ced5e0",
+    "cds-undimmed-text-secondary": "#ced5e0",
+    "cds-text-muted": "#7f858f",
+    "cds-undimmed-text-muted": "#7f858f",
+    "cds-role-accent-on": "#0a0e16",
+    "cds-on-accent": "#0a0e16",
+    "cds-on-brand": "#0a0e16",
+    "cds-bg-accent": "#222936",
+    "olympus-border": "#2c3443"
+  },
+  "images": {
+    "top": "selene-top.png",
+    "bottom": "selene-bottom.png",
+    "hero": "selene-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

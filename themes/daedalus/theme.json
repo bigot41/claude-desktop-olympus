@@ -1,0 +1,30 @@
+{
+  "name": "Daedalus",
+  "group": "Olympus",
+  "bg": "#061428",
+  "text": "#dbe9fb",
+  "accent": "#7cc4ff",
+  "vars": {
+    "cds-surface-1": "#111f33",
+    "cds-surface-2": "#152337",
+    "cds-surface-3": "#18263a",
+    "desktop-theme-backdrop": "#061428",
+    "cds-text-secondary": "#c6d4e6",
+    "cds-undimmed-text-secondary": "#c6d4e6",
+    "cds-text-muted": "#8290a2",
+    "cds-undimmed-text-muted": "#8290a2",
+    "cds-role-accent-on": "#061428",
+    "cds-on-accent": "#061428",
+    "cds-on-brand": "#061428",
+    "cds-bg-accent": "#19304a",
+    "olympus-border": "#2a384c"
+  },
+  "images": {
+    "top": "daedalus-top.png",
+    "bottom": "daedalus-bottom.png",
+    "hero": "daedalus-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

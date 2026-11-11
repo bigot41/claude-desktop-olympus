@@ -1,0 +1,30 @@
+{
+  "name": "Hades",
+  "group": "Olympus",
+  "bg": "#0d0503",
+  "text": "#ffb38a",
+  "accent": "#e0663a",
+  "vars": {
+    "cds-surface-1": "#1c0b06",
+    "cds-surface-2": "#230d06",
+    "cds-surface-3": "#291008",
+    "desktop-theme-backdrop": "#0d0503",
+    "cds-text-secondary": "#eca57f",
+    "cds-undimmed-text-secondary": "#eca57f",
+    "cds-text-muted": "#92654d",
+    "cds-undimmed-text-muted": "#92654d",
+    "cds-role-accent-on": "#0d0503",
+    "cds-on-accent": "#0d0503",
+    "cds-on-brand": "#0d0503",
+    "cds-bg-accent": "#341409",
+    "olympus-border": "#431a0c"
+  },
+  "images": {
+    "top": "hades-top.png",
+    "bottom": "hades-bottom.png",
+    "hero": "hades-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}

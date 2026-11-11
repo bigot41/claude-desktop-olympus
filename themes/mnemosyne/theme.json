@@ -1,0 +1,30 @@
+{
+  "name": "Mnemosyne",
+  "group": "Olympus",
+  "bg": "#0c0e14",
+  "text": "#e6e2d6",
+  "accent": "#8fa8d8",
+  "vars": {
+    "cds-surface-1": "#17191e",
+    "cds-surface-2": "#1b1d22",
+    "cds-surface-3": "#1f2024",
+    "desktop-theme-backdrop": "#0c0e14",
+    "cds-text-secondary": "#d0cdc3",
+    "cds-undimmed-text-secondary": "#d0cdc3",
+    "cds-text-muted": "#8a8985",
+    "cds-undimmed-text-muted": "#8a8985",
+    "cds-role-accent-on": "#0c0e14",
+    "cds-on-accent": "#0c0e14",
+    "cds-on-brand": "#0c0e14",
+    "cds-bg-accent": "#212733",
+    "olympus-border": "#313235"
+  },
+  "images": {
+    "top": "mnemosyne-top.png",
+    "bottom": "mnemosyne-bottom.png",
+    "hero": "mnemosyne-hero.png"
+  },
+  "sheets": [
+    "_olympus"
+  ]
+}
